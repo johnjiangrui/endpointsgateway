@@ -1,0 +1,5 @@
+{
+	"endpoint1": { "host": "localhost", "port": "1234" },
+	"endpoint2": { "host": "http://yourdomain", "port": "5678" },
+	"endpoint3" : { "host": "http://example.net", "port": "9012" }
+}

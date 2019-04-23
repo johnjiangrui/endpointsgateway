@@ -1,0 +1,10 @@
+{
+	"wx": { "host": "localhost", "port": "5858" },
+	"data": { "host": "localhost", "port": "5858" },
+	"member" : { "host": "localhost", "port": "5858" },
+	"upload" : { "host": "localhost", "port": "5858" },
+	"wechatpay" : { "host" : "localhost", "port": "8788" },
+	"unifiedorder" : { "host" : "localhost", "port": "8788"},
+	"notify" : { "host" : "localhost", "port": "8788"},
+	"closeOrder" : { "host" : "localhost", "port": "8788"}
+}
